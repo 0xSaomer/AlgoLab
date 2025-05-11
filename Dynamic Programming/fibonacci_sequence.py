@@ -1,9 +1,9 @@
 # This function calculates the given N integer of a Fibonacci sequence
-def fibonnaci(n):
+def fibonacci(n):
     if n <= 1:
         return n
 
-    return fibonnaci(n-1) + fibonnaci(n-2)
+    return fibonacci(n-1) + fibonacci(n-2)
 
 
-print(fibonnaci(8))
+print(fibonacci(8))
