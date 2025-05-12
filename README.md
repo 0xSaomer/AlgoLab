@@ -30,6 +30,7 @@ Welcome to my collection of algorithms and data structures! This repository cont
 - Valid Brackets
 - Length of last word
 - Valid Anagrams
+- Reverse String
 
 ### **Binary Search**
 - Binary search
