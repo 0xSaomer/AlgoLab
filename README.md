@@ -25,6 +25,8 @@ Welcome to my collection of algorithms and data structures! This repository cont
 - Rotate list
 - Two-dimensional array
 - Two number sum
+- Dutch National Flag
+- Move Zeroes to the end
 
 ### **Strings**
 - Valid Brackets
